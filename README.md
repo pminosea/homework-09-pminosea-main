@@ -4,7 +4,7 @@
 * Student: Paula Minozzo
 * Semester: Fall 2024
 * Link / URL to your github repo for this assignment: 
-  https://github.com/Fa24-CS5001-Online-Lionelle/homework-09-pminosea
+  (https://github.com/pminosea/homework-09-pminosea-main)
 Don't forget the above link. TAs will grade by going to your repo!
 
 ## Common
